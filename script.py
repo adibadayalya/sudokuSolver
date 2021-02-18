@@ -36,7 +36,7 @@ def Solve():
                 return
 
     print(np.matrix(grid))
-    input("More Possible solutions")
+    input("There maybe more Possible solutions...")
 
 Solve()
  
